@@ -7,5 +7,5 @@
 <h2> Graphics </h2>
 <ul>
 <li> Gimp - http://www.gimp.org/
-<li> Infranview -  http://www.irfanview.com/ 
+<li> Irfanview -  http://www.irfanview.com/ 
 </ul>
