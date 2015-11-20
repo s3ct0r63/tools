@@ -11,6 +11,6 @@
 </ul>
 <h2> Link Anaysis </h2>
 <ul>
-<li> Maltego - http://www.paterva.com/web6/products/casefile.php
-<li> Casefile - http://www.paterva./web6/products/maltego.php
+<li> Maltego - http://www.paterva.com/web6/products/casefile.php - Maltego is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format.
+<li> Casefile - http://www.paterva./web6/products/maltego.php - CaseFile is Paterva's answer to the offline intelligence problem. Combining Maltego's fantastic graph and link analysis this tool allows for analysts to examine links between manually added data to mind map your information.
 </ul>
