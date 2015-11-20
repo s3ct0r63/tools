@@ -3,6 +3,7 @@
 <ul>
 <li> Nmap - https://nmap.org/ - Nmap Free Security Scanner, Port Scanner, & Network Exploration Tool. Download open source software for Linux, Windows, UNIX, FreeBSD, etc.
 <li> Metasploit - http://www.metasploit.com/ - Find security issues, verify vulnerability mitigations & manage security assessments with Metasploit.  
+<li> Putty - http://www.chiark.greenend.org.uk/~sgtatham/putty/ - PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator. 
 </ul>
 <h2> Graphics </h2>
 <ul>
